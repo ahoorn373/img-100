@@ -1,1 +1,14 @@
 <!-- Creates a login form -->
+<!-- Note that we use POST as a method here to keep the password out of the url -->
+<h1>Login</h1>
+<form method="post" action="login.php">
+    <div>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" required>
+    </div>
+    <div>
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password" required>
+    </div>
+    <input type="submit" value="Login">
+</form>

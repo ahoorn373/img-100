@@ -1,1 +1,16 @@
 <!-- Create an HTML form that calculates tips -->
+<!-- Note that the form method is left off, so GET is used by default -->
+<h1>
+    Tip Calculator App
+</h1>
+<form action="calculate.php">
+    <div>
+        <label for="amount">Amount ($)</label>
+        <input type="number" name="amount" id="amount" required>
+    </div>
+    <div>
+        <label for="percent">Percentage (%)</label>
+        <input type="number" name="percent" id="percent" required>
+    </div>
+    <input type="submit" value="Calculate">
+</form>
