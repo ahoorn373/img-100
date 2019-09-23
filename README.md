@@ -4,7 +4,7 @@ _Public course materials for IMG 100 PHP at NIC_
 ## How to setup a lab or assignment
 This course has labs and assignments that should be started from the designated templates. This can be done by following these steps:
 
-1. Download the ZIP of this repository and extract it to a good place to work from on your computer.
+1. Download the ZIP of this repository and extract it to a good place to work from on your computer. It will need to be somewhere in the "HTDOCS" folder to run PHP.
 
 ![Image of Download](https://raw.githubusercontent.com/chris-geelhoed/img-100/master/readme-assets/download.png)
 
