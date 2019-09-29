@@ -24,4 +24,6 @@ This course has labs and assignments that should be started from the designated 
 
 7. Go ahead and complete the lab, using Github Desktop to make appropriate commits as you work.
 
-8. Finally, use Github Desktop to publish the repository to your Github account. Ensure the repository is private with `chris-geelhoed` as a collaborator.
+8. Finally, use Github Desktop to publish the repository to your Github account. Ensure the repository is private with `chris-geelhoed` as a collaborator. Please include the course, submission type, and number in the title (eg img100-lab2 or img100-assignment3).
+
+9. Once you've confirmed that the files have made it to Github successfully, send me an email with a link to the repository (eg "Hey Chris I've completed Assignment 3 and you can see it at https://github.com/your-github-username/img100-assignment3")
